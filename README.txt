@@ -1,0 +1,1 @@
+En este proyecto se busca implementar las acciones básicas a la hora de realizar un proyecto en Git. Realizaremos acciones como la creación de ramas y de como mergerlas entre ellas así como la realización de commits para diferenciar las diferentes versiones de nuestro proyecto.
